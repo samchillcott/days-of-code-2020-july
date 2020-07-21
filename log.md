@@ -17,3 +17,19 @@
 - I think "Let me just get it working and worry about it later" from a few weeks back has caught up with me. All good.⁣
 - GHP giving a 404 even though projects seems fine. I'm close. Now its a link and my read me displaying? Got it working using ghp branch.⁣
 - Although I have spent 5.5 hours trying to solve the issue I have learned a lot about builds, serves and deployment.
+
+### #daysofcode 21/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Portfolio Updates:⁣
+- Created gifs for weather and coaching apps and embedded.⁣
+- Subdomain hosting - point portfolio.samchillcott.com to show the hosted Netlify portfolio.⁣
+- Deployment and DNS (Domain Name System) reading.⁣
+- Added CNAME record in DNS Zone Editor to point to Netlify portfolio.⁣
+⁣
+**Thoughts** ⁣
+- I'm enjoying the reduced pressure of not doing a challenge. Although, I am aware of the added pressure I did put on myself.⁣
+- Still a bit vague on DNS but not covered deployment yet (the final part of compile, build, deploy). ⁣
+- Trying to work out where I set things up (name servers, A Record, CNAME record) and what I point where.⁣
+- Turns out I didn't need to create the subdomain in SiteGround but the CNAME would kinda do that for me (as far as I can work out). The record seems to be added ok so may have to wait 24 hrs for it to propagate. Doesn't seem to have worked - "www.portfolio.samchillcott.com’s server IP address could not be found. DNS_PROBE_FINISHED_NXDOMAIN".⁣
+- Another day of spending a few (3+) hours to complete 1 small task (easy when you know how) but learned a lot about peripheral concepts related to hosting and deployment.
