@@ -33,3 +33,18 @@
 - Trying to work out where I set things up (name servers, A Record, CNAME record) and what I point where.⁣
 - Turns out I didn't need to create the subdomain in SiteGround but the CNAME would kinda do that for me (as far as I can work out). The record seems to be added ok so may have to wait 24 hrs for it to propagate. Doesn't seem to have worked - "www.portfolio.samchillcott.com’s server IP address could not be found. DNS_PROBE_FINISHED_NXDOMAIN".⁣
 - Another day of spending a few (3+) hours to complete 1 small task (easy when you know how) but learned a lot about peripheral concepts related to hosting and deployment.
+
+### #daysofcode 22/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Portfolio Updates:⁣
+- Subdomain DNS setup.⁣
+- package-lock.json reading⁣.
+⁣
+**Thoughts** ⁣
+- Mentor chat/code review with @voyzan yesterday brought up some great feedback and tweaks for the portfolio - manly around UX and reducing some of the clicks. Added suggestions to todo list.⁣
+- I can't add a CNAME for portfolio because the "name is already reserved" (I created the portfolio subdomain again in cPanel). I can't add an A record because I don't have the IP of my Netlify app (and they suggest using a CNAME). Wtf?⁣
+- If I delete the subdomain I can add the CNAME. But then I can't add the subdomain back? Grr.⁣
+- Called Siteground customer support who confirmed I only need the CNAME record (no need to create subdomain) and I just need to wait for propagation. Guess that's the downside of DNS - you have to wait to 24 hrs to see if your tweak worked! And it turned out I had it right yesterday but then changed it.⁣
+- I have learned to keep an eye on how long to spend on each task and when to ask for help. I guess usually I can get instant feedback on whether I was successful - DNS doesn't give me that so don't wait 24hrs for that feedback.⁣
+- Feel strangely tired today. Slept well but focus and energy not there after 2 hrs for some reason. Calling it after 3 hrs. Possibly mental fatigue from last few days where I have done way above average (for me) hours of coding?
