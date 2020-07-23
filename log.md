@@ -48,3 +48,12 @@
 - Called Siteground customer support who confirmed I only need the CNAME record (no need to create subdomain) and I just need to wait for propagation. Guess that's the downside of DNS - you have to wait to 24 hrs to see if your tweak worked! And it turned out I had it right yesterday but then changed it.⁣
 - I have learned to keep an eye on how long to spend on each task and when to ask for help. I guess usually I can get instant feedback on whether I was successful - DNS doesn't give me that so don't wait 24hrs for that feedback.⁣
 - Feel strangely tired today. Slept well but focus and energy not there after 2 hrs for some reason. Calling it after 3 hrs. Possibly mental fatigue from last few days where I have done way above average (for me) hours of coding?
+
+### #daysofcode 23/7/20 
+
+**Today's Progress**
+- Day Off.
+- Fixed subdomain.
+
+**Thoughts** 
+- Was irked by subdomain not working so couldn't enjoy my day. Contacted hosting company who gave me the real reason it wasn't working. Missing www. From the CNAME record! Changed it, instantly worked. Can sleep well now.
