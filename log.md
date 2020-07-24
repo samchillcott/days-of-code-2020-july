@@ -57,3 +57,22 @@
 
 **Thoughts** 
 - Was irked by subdomain not working so couldn't enjoy my day. Contacted hosting company who gave me the real reason it wasn't working. Missing www. From the CNAME record! Changed it, instantly worked. Can sleep well now.
+
+### #daysofcode 24/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- HTTPS (SSL/TLS) setup on portfolio site. Padlock in place.⁣
+- TLS - Transport Layer Security (TLS) is the successor protocol to SSL.⁣
+- gitignore reading.⁣
+- Added site title using React Helmet.⁣
+- Look at better options to host Resume (which constantly gets updated).⁣
+⁣
+**Thoughts** ⁣
+- I'm getting into the habit of searching the docs (if I am using a certain platform or tech) before using google.⁣
+- Netlify makes the TLS process nice and easy - gotta love abstraction.⁣
+- Realised public folder was in gitignore. Read up on what usually gets ignored.⁣
+- Trying to add a title tag in index.html but Gatsby develop keeps removing it (leaving the title as the url). Might need to use React helmet or add an SEO component but also looked into the Gatsby-config.js file and what that does. ⁣
+- Tried to figure out why some hover links work and some don't. Baffling me.⁣
+- My resume page currently links to a pdf in my google drive which works great. Until I then edit the resume. Wondering if I can host somewhere and point a subdomain to that.⁣
+- Feels like a day of spending a lot of time but not changing much. I know I've learned a bit though.⁣
+- MVP portfolio now complete! I can now go back and do phase 2 which will improve the UX and styling.
