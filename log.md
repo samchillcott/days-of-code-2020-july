@@ -76,3 +76,23 @@
 - My resume page currently links to a pdf in my google drive which works great. Until I then edit the resume. Wondering if I can host somewhere and point a subdomain to that.⁣
 - Feels like a day of spending a lot of time but not changing much. I know I've learned a bit though.⁣
 - MVP portfolio now complete! I can now go back and do phase 2 which will improve the UX and styling.
+
+### #daysofcode 25/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Portfolio Updates:⁣
+- Put Resume .pdf in the public folder rather than linking externally. That way the link stays the same in the code and to update I just add the updated pdf with the same filename to the project to overwrite the existing pdf.⁣
+- Attempt to add Open Graph tags (using Helmet) to display better image in social media.⁣
+- New branch for Sass tweaks.⁣
+- Tidied Header component spacing.⁣
+- About Page containers tidy up.⁣
+- Uniform size of tech icons.⁣
+- Add extra tech icons.⁣
+- Updated main media query.⁣
+⁣
+**Thoughts** ⁣
+- After all the hard work on presentation, when I add the link to my LinkedIn profile it displays the worst image from my project (the firebasic screenshot which is just an html form with no css). What a woeful first impression! I want to be able to change this. Wonder if there is a setting to just use a live preview of the home page? Turns out it used one of the gifs once I submitted so that'll do. Couldn't get og tags working as planned.⁣
+- I'm finding myself avoiding the Sass editing because someone else wrote it and I don't yet know their structure. Tempted to rewrite from scratch so I know where everything should be and what the class names are.⁣
+- Got head around what template designer was trying to do and starting to write my own Sass where needed.⁣
+- A lot happier now its a little tidier.⁣
+- Discovered a strange bug where the SVGs don't load on page refresh. Quick look to find a solution (no joy) but leaving for now. Chances of that being recreated are slim.
