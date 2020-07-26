@@ -96,3 +96,12 @@
 - Got head around what template designer was trying to do and starting to write my own Sass where needed.⁣
 - A lot happier now its a little tidier.⁣
 - Discovered a strange bug where the SVGs don't load on page refresh. Quick look to find a solution (no joy) but leaving for now. Chances of that being recreated are slim.
+
+### #daysofcode 26/7/20 
+
+**Today's Progress**
+- N/A.
+
+**Thoughts** 
+- First day of with low stress levels and no guilt or urge to get back to coding.
+- Should have portfolio finished ready for job apps this week. Bring it on.
