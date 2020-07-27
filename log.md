@@ -105,3 +105,18 @@
 **Thoughts** 
 - First day of with low stress levels and no guilt or urge to get back to coding.
 - Should have portfolio finished ready for job apps this week. Bring it on.
+
+### #daysofcode 27/7/20 
+
+**Today's Progress**
+- Portfolio Updates:
+- Move projects out of clickable animation to display on load.
+
+**Thoughts** 
+- Although the MVP does a job, the UX is the next area to focus on. The projects could do with a bit more description of what they do and what tech I used and not be hidden behind a click. I realise now there is a balance to find between minimalism and UX.
+- I'm struggling to understand how the template creator has set up the animation transition. Its an area I've never really covered as I have concentrated on "more important things to learn" (imo). Rather than tweak it, I am temped to strip it all out and start from scratch (like I did with the About page).
+- Stripped out existing code and sorted layout from scratch. Brought back in elements that I needed for consistency.
+- Again, the classname setup is confusing af because I didn't write it. Stripped that back too.
+- Content overflowing from container is something I still have happening from time to time. This is great practice to understand why.
+- I think keys are causing me some confusion as to why some of my links don't have a hover state any more. Noted to read up on keys for a refresher.
+- Feel a bit better now the projects are on display from the get go.
