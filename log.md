@@ -120,3 +120,17 @@
 - Content overflowing from container is something I still have happening from time to time. This is great practice to understand why.
 - I think keys are causing me some confusion as to why some of my links don't have a hover state any more. Noted to read up on keys for a refresher.
 - Feel a bit better now the projects are on display from the get go.
+
+### #daysofcode 28/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Portfolio Updates:⁣
+- Create gifs for Firebasic & Portfolio projects.⁣
+- Merged all back in to master branch.⁣
+- Complete Readme docs for all projects. Now has sections for intro, Tech Used, Features, What I learned, Challenges, Improvements, Watch Me Build This (links to IG videos for the time I was building that project) and Original Spec (by my mentor).⁣
+
+**Thoughts** ⁣
+- Can't figure out why the hover states don't work any more. Am spending too much time on this so will move on as it is a minor detail. Albeit it annoys the perfectionist in me.⁣
+- Using gifs has solved the issue of non-uniform image height (which affected the project wrapper height).⁣
+- Readmes took a long time but worth it. Might even start using readme as note taking doc within the projects. That way I can just tidy up my notes/reflections rather than having them dotted around my google doc for the project.⁣
+- Few tiny tweaks to make but 99% of portfolio is now done. Sweet.
