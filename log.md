@@ -134,3 +134,14 @@
 - Using gifs has solved the issue of non-uniform image height (which affected the project wrapper height).⁣
 - Readmes took a long time but worth it. Might even start using readme as note taking doc within the projects. That way I can just tidy up my notes/reflections rather than having them dotted around my google doc for the project.⁣
 - Few tiny tweaks to make but 99% of portfolio is now done. Sweet.
+
+### #daysofcode 29/7/20 
+
+**Today's Progress**
+- Command Line learning - Navigate the file system, create/move/edit folders and files and how to kill a process.
+- rm doesn't send to trash so be careful!
+
+**Thoughts** 
+- CLI/Terminal is on my Job Prep list and I thought today would be a good time to spend a few mins getting used to it before I move onto my next phase.
+- I am pretty comfortable with Git nowadays but it dawned on me that I have been using GitGraph exclusively and not actually using the CL (or even GH Desktop) for git actions. React and npm do use the command line but they tend to be the same repeated commands. Will have a go at using it a bit more going forward. But then again, it seems so long winded compared to using a GUI and a few clicks?!
+- I always prefer GUIs so I can SEE what I am doing. It's that fear I still have of editing or deleting something by accident.
