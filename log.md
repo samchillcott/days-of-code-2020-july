@@ -145,3 +145,22 @@
 - CLI/Terminal is on my Job Prep list and I thought today would be a good time to spend a few mins getting used to it before I move onto my next phase.
 - I am pretty comfortable with Git nowadays but it dawned on me that I have been using GitGraph exclusively and not actually using the CL (or even GH Desktop) for git actions. React and npm do use the command line but they tend to be the same repeated commands. Will have a go at using it a bit more going forward. But then again, it seems so long winded compared to using a GUI and a few clicks?!
 - I always prefer GUIs so I can SEE what I am doing. It's that fear I still have of editing or deleting something by accident.
+
+### #daysofcode 30/7/20 
+
+**Today's Progress**
+- Testing:
+- E2E - Create end-to-end (e2e) functional tests for automated click-testing of critical paths instead of relying on your users to do it for you.
+- Integration - Develop integration tests to audit your application holistically and make sure everything works together correctly in harmony.
+- Unit - Write effective unit tests that target the critical behaviour and functionality of your application.
+- Static - Use a static type system and a linter to capture basic errors like typos and syntax.
+- Ask: Is the trade-off worth it?
+- Stub & Driver - Incremental Approach is carried out by using dummy programs called Stubs and Drivers. Stubs and Drivers do not implement the entire programming logic of the software module but just simulate data communication with the calling module.
+- Had a play with updating dependencies and checking vulnerabilities.
+- Looked a basic Jest tut.
+
+**Thoughts** 
+- Mentor chat yesterday going over next steps. Wissam @designingforscale who is a Senior Engineering Manager at GitHub had a look at our "Job Prep List" and suggested adding testing to it so will be doing some reading and a quick challenge over the coming days.
+- My aim is to have some knowledge in testing concepts around unit tests, end-to-end tests, and integration tests. "You don't have to be an expert, but this is something that companies tend to look for".
+- Cloned testing tut via the GH desktop app which I haven't used before. I usually clone via zip. Thought this would make sync setup quicker but looks like a fork rather than a clone because I can't push to the remote. Think it was because the remote was already setup as part of the clone so reconfigured using the GH quick setup page.
+- GH Dependabot merge requests on testing clone. Have had a few alerts via email for 1 one of my projects too. Cool to see what this process does and to do the PRs. Updates dependencies and deletes the branch.
