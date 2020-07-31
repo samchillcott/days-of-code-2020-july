@@ -164,3 +164,18 @@
 - My aim is to have some knowledge in testing concepts around unit tests, end-to-end tests, and integration tests. "You don't have to be an expert, but this is something that companies tend to look for".
 - Cloned testing tut via the GH desktop app which I haven't used before. I usually clone via zip. Thought this would make sync setup quicker but looks like a fork rather than a clone because I can't push to the remote. Think it was because the remote was already setup as part of the clone so reconfigured using the GH quick setup page.
 - GH Dependabot merge requests on testing clone. Have had a few alerts via email for 1 one of my projects too. Cool to see what this process does and to do the PRs. Updates dependencies and deletes the branch.
+
+### #daysofcode 31/7/20 
+
+**Today's Progress**
+- Jest unit & integration testing (Test Runner & Assertion Library).
+- Puppeteer e2e testing (Headless Browser).
+- One of the benefits of using Headless Chrome (as opposed to testing directly in Node) is that your JavaScript tests will be executed in the same environment as users of your site. This gives you a real browser context without the memory overhead of running a full version of Chrome.
+- Double checks can check for false positives or opposites.
+- Drill down and write unit tests for the smallest levels. Then the integration test just relies on the units being tested.
+
+**Thoughts** 
+- Experimenting with having my first coffee of the day a little later. Have been sleeping well this week but still feeling tired. Also due to minimal physical exercise this week I imagine. Crashed early so had coffee (90 mins later than usual) - will bring the delay forward and see what works best.
+- I like how you can watch using Jest so can catch failed tests as you go.
+- I'm following along the concepts ok but not fully understanding the code/syntax just yet. Spent a while reading all the code in the tut project to understand what each part and file does. Makes more sense now. Reminds me that jumping straight in on a follow-along will catch up with you! Also highlights a point made by @emmabostian in her Honeypot video to read other people's code (because that is what you will be doing most of the time in a job - as opposed to being self taught and only writing your own code).
+- Cool to play with 3 more new technologies. Was unsure of the reasons behind using Chromium and not Chrome so did some reading on why we use headless browsers.
